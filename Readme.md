@@ -1,21 +1,22 @@
-### Sort Layers
+### 图层整理
 
-Sorts the selected layers or artboards. Note: This plugin will also reorder the layers in the layer list to match the visual order. For best results, group your layers before sorting.
+整理选中的图层或画板.提示:
+插件会重新排列顺序，为了不影响排列后的视觉效果。在使用前，请把完成的元素转化为组。
 
-There are also plugins to reverse the order of the layers in the layer list and a plugin that reverses the position of the selected layers on the artboard.
+不过，插件也能返回重做图层的顺序或重新设置画板的位置
 
-**Options:** `Text (A->Z)`, `Text (Z->A)`, `Layer Name (A->Z)`, `Layer Name (Z->A)`, `Top`, `Left`, `Random`
+**选项顺序:** `Text (A->Z)`, `Text (Z->A)`, `Layer Name (A->Z)`, `Layer Name (Z->A)`, `Top`, `Left`, `Random`
 
-**Shortcut:** `ctrl` + `⌘` + `⌥` + `S`
+**快捷键:** `ctrl` + `⌘` + `⌥` + `S`
 
-#### Sorting Layers by text, visually
+#### 通过可见，文本排序对图层排序
 ![Selection Animation](https://dl.dropboxusercontent.com/u/974773/_keepalive/Style%20Inventory/Sorting.gif)
 
-#### Sorting Layers in the layer list by position
+#### 通过位置 对图层重新排序
 ![Selection Animation](https://dl.dropboxusercontent.com/u/974773/_keepalive/Style%20Inventory/Sorting%20Layers%202.gif)
 
-#### Reverse Layer Order
+#### 返回到原先图层顺序
 This will reverse the layer order.
 
-#### Reverse Positions
+#### 返回到原先图层顺序
 This will reverse the position of the layers on the canvas.
